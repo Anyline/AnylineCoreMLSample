@@ -6,7 +6,7 @@
               |___|            
 
 
-# Hotdog | Not Hotdog Sample Project with CoreML & the InceptionV3 model #
+# Hotdog | Not Hotdog Sample Project #
 
 ## Intro ##
 I made a short sample project which demonstrates the capabilities of the new CoreML framework which Apple will release with iOS 11 later this month. 
