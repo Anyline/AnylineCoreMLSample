@@ -29,4 +29,4 @@ I used the Inception model because it is with > 300 nodes not so small and can c
 
 ## Demo of the App ##
 
-!¢[Demo](/gif/hotdog.gif)
+![Demo](/gif/hotdog.gif)
